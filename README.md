@@ -1,33 +1,65 @@
-# Zoho CRM Automation – Sonicbolt
+# Zoho Automation & Analytics Implementation – Sonicbolt Technologies LLP
 
 ## 🚀 Overview
-Implemented a Zoho CRM system to streamline sales operations and automate lead management for Sonicbolt.
+Designed and implemented multiple Zoho-based solutions to automate business operations, improve reporting efficiency, and enhance decision-making processes at Sonicbolt Technologies LLP.
 
-## 🧠 Problem
-The business was handling leads and follow-ups manually, leading to missed opportunities and inefficient tracking.
+---
 
-## 💡 Solution
-Designed and implemented an automated CRM workflow using Zoho to manage leads, follow-ups, and sales pipeline.
+## 🧠 Business Challenges
+- Manual inventory tracking leading to errors and inefficiencies  
+- Lack of real-time visibility into project performance  
+- Time-consuming report generation process  
+- Disconnected workflows across teams  
 
-## 🛠 Tools Used
-- Zoho CRM
-- Zoho Flow
-- Deluge (Custom Functions)
+---
 
-## 🔥 Key Features
-- Automated lead assignment
-- Lead to deal conversion workflow
-- Follow-up reminders
-- Email automation
-- Sales pipeline tracking
+## 💡 Solutions Implemented
+
+### 🔹 Inventory & Material Issue Tracking Application
+- Developed a custom application using Zoho Creator  
+- Automated inventory tracking and material issue processes  
+- Reduced manual data entry by **40%**
+
+---
+
+### 🔹 Task & Project Performance Dashboard
+- Built interactive dashboards using Zoho Analytics  
+- Enabled real-time tracking of project progress and performance  
+- Improved managerial visibility and decision-making  
+
+---
+
+### 🔹 Automated Reporting System
+- Designed and implemented automated reporting workflows  
+- Integrated reporting with Zoho Analytics  
+- Reduced report generation time by **50%**
+
+---
+
+## 🛠 Tech Stack
+- Zoho Creator  
+- Zoho Analytics  
+- Deluge Scripting  
+- Zoho Flow (for integrations)
+
+---
+
+## 🔥 Key Contributions
+- Automated multiple business workflows to reduce manual effort  
+- Designed scalable data collection and reporting systems  
+- Led implementation of analytics dashboards for business insights  
+- Collaborated with cross-functional teams to improve processes  
+- Provided training and support for Zoho applications  
+
+---
 
 ## 📈 Impact
-- Improved lead tracking efficiency  
-- Reduced manual work  
-- Better visibility of sales pipeline  
+- Increased operational efficiency across departments  
+- Reduced manual workload and human errors  
+- Enabled data-driven decision-making  
+- Improved reporting speed and accuracy  
 
-## 📸 Screenshots
-(Add screenshots if possible)
+---
 
 ## 🔐 Note
-Due to client privacy, actual data is not shared. This repository documents the implementation approach.
+Due to confidentiality, this repository showcases the implementation approach and system design without exposing sensitive business data.
